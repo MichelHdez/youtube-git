@@ -1,0 +1,67 @@
+commit c3d18f7f1d08fcac71cb97d01436cb0f42019f93
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Mon Feb 6 18:27:02 2023 -0600
+
+    actualización index.html y commit
+
+commit aec4f8fbd69df4208fa9117eccb55dd35d0cc74d
+Merge: 571080b 486cb40
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Mon Feb 6 00:17:43 2023 -0600
+
+    Resolviendo conflictos merge
+
+commit 486cb4087499bb11382c7e520ebcd40d1816f22b
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Mon Feb 6 00:14:11 2023 -0600
+
+    agregando enlace js al archivo html
+
+commit 571080b6dae7ce70c079f3bc7d92d6330d1a6f8c
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Mon Feb 6 00:12:40 2023 -0600
+
+    agregando enlace css al archivo html
+
+commit f98c2bb72e8a81482a645bf41d3bacdcd23f93ba
+Merge: f0027bc 04c76ef
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Sun Feb 5 23:45:46 2023 -0600
+
+    Merge branch 'js'
+
+commit 04c76ef1391a86afb7c5c79867f339538608f66a
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Sun Feb 5 23:37:53 2023 -0600
+
+    agregando archivo js
+
+commit f0027bc6a56edf27848f9e459a9c6c03b2fbad68
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Sun Feb 5 23:28:51 2023 -0600
+
+    agregando index.html
+
+commit 5e19f9d6f3e003958d70dcd971c40b590e554b6f
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Sun Feb 5 23:10:43 2023 -0600
+
+    actualizando archivo gitignore
+
+commit 19ba9678bf1394b30c4f06532c5353c9f906bd7e
+Author: Michel Hdez <michel01406@gmail.com>
+Date:   Sun Feb 5 22:23:14 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 99f54c9dc45427d0d1f5e3a6da1153c3189b5b6b
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Sun Feb 5 21:52:26 2023 -0600
+
+    Actualización README
+
+commit febf9446d44b6771f86e6cfa4f37bde297e375c8
+Author: michelhdez <silverchair2000@hotmail.com>
+Date:   Sun Feb 5 21:32:27 2023 -0600
+
+    First commit
